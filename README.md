@@ -2,7 +2,8 @@
 Deployed link
 https://dashboard-three-orpin.vercel.app/
 
-![Uploading Screenshot 2024-01-31 at 12.22.44 PM.png…]()
+![UI](https://github.com/AastikM/Dashbaord/blob/src/assets/images/UI.png?raw=true)
+
 
 
 
