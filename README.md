@@ -2,7 +2,7 @@
 Deployed link
 https://dashboard-three-orpin.vercel.app/
 
-![UI](https://github.com/AastikM/Dashboard/src/assets/images/UI.png?raw=true)
+<img width="1470" alt="UI" src="https://github.com/AastikM/Dashboard/assets/73746144/3f71e8a8-f46d-4451-861f-9bba397d1b38">
 
 
 
