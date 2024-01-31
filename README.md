@@ -1,10 +1,16 @@
 ## Dashbaord\_\_s_application2
+Deployed link
+https://dashboard-three-orpin.vercel.app/
+<img width="1470" alt="Screenshot 2024-01-31 at 12 17 37 PM" src="https://github.com/AastikM/Dashboard/assets/73746144/d6dbd888-136a-4bfb-a216-5e1db39916d0">
+
+
 
 ## Description
 
 - This React application is built using [create-react-app](https://create-react-app.dev/).
 - It uses [Tailwind CSS](https://tailwindcss.com/)
 - The application is generated in JavaScript.
+- 
 
 ## Pre-requisites
 
